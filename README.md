@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dhanyabad11/Limgrave-web.git
+git clone https://github.com/faraz-ad/limgrave.git
 cd Zoom-main
 ```
 
@@ -373,9 +373,9 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**Dhanyabad**
+**Faraz-Ad**
 
--   GitHub: [@dhanyabad11](https://github.com/dhanyabad11)
+-   GitHub: [@faraz-ad](https://github.com/faraz-ad)
 
 ## 🙏 Acknowledgments
 
@@ -391,4 +391,4 @@ For support, email your-email@example.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by Dhanyabad
+Made with ❤️ by Faraz-Ad

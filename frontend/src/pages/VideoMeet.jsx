@@ -33,7 +33,7 @@ const peerConfigConnections = {
         // YOUR OWN TURN SERVER - This will make cross-network connections work!
         {
             urls: ["turn:139.59.67.205:3478", "turn:139.59.67.205:3478?transport=tcp"],
-            username: "dhanyabad",
+            username: "faraz-ad",
             credential: "secure123pass",
         },
     ],
